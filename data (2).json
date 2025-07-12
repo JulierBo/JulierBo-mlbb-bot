@@ -1,0 +1,114 @@
+{
+  "users": {
+    "7669567524": {
+      "name": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+      "username": "julierbo_151102",
+      "balance": 0,
+      "orders": [],
+      "topups": []
+    },
+    "6437656033": {
+      "name": "",
+      "username": "",
+      "balance": 800,
+      "orders": [
+        {
+          "order_id": "ORD20250711172551",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "processing",
+          "timestamp": "2025-07-11T17:25:51.900431"
+        },
+        {
+          "order_id": "ORD20250711201645",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 6400,
+          "status": "processing",
+          "timestamp": "2025-07-11T20:16:45.050589"
+        },
+        {
+          "order_id": "ORD20250711202046",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "processing",
+          "timestamp": "2025-07-11T20:20:46.760326"
+        },
+        {
+          "order_id": "ORD20250711202706",
+          "game_id": "234568465",
+          "server_id": "5438",
+          "amount": "11",
+          "price": 950,
+          "status": "processing",
+          "timestamp": "2025-07-11T20:27:06.312147"
+        },
+        {
+          "order_id": "ORD20250711225712",
+          "game_id": "234568465",
+          "server_id": "5438",
+          "amount": "11",
+          "price": 950,
+          "status": "processing",
+          "timestamp": "2025-07-11T22:57:12.869573"
+        }
+      ],
+      "topups": [
+        {
+          "amount": 5000,
+          "status": "approved",
+          "timestamp": "2025-07-11T17:24:18.140585",
+          "approved_at": "2025-07-11T17:25:27.733195"
+        },
+        {
+          "amount": 5000,
+          "status": "approved",
+          "timestamp": "2025-07-11T18:16:39.697070",
+          "approved_at": "2025-07-11T18:52:34.910626"
+        },
+        {
+          "amount": 1000,
+          "status": "approved",
+          "timestamp": "2025-07-11T20:22:20.567095",
+          "approved_at": "2025-07-11T20:23:46.101792"
+        }
+      ]
+    },
+    "5087429318": {
+      "name": "",
+      "username": "",
+      "balance": 4050,
+      "orders": [
+        {
+          "order_id": "ORD20250711235958",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "processing",
+          "timestamp": "2025-07-11T23:59:58.963037"
+        }
+      ],
+      "topups": [
+        {
+          "amount": 5000,
+          "status": "approved",
+          "timestamp": "2025-07-11T23:57:42.418149",
+          "approved_at": "2025-07-11T23:58:14.109706"
+        }
+      ]
+    }
+  },
+  "authorized_users": [
+    "5087429318",
+    "6437656033"
+  ],
+  "prices": {
+    "wp1": 6400
+  }
+}
